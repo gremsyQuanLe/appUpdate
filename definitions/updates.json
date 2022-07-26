@@ -1,9 +1,9 @@
 {
   "updates": {
     "windows": {
-      "open-url": "",
+      "open-url": "https://github.com/gremsyQuanLe/appUpdate/releases/download/v1.0.0/gTuneDesktpop.exe",
       "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/gremsyQuanLe/appUpdate/main/download/img.jpg",
+      "download-url": "https://github.com/gremsyQuanLe/appUpdate/releases/download/v1.0.0/gTuneDesktpop.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
     },
