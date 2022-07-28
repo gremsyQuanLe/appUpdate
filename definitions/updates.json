@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "https://github.com/gremsyQuanLe/appUpdate/releases/download/v1.0.0/gTuneDesktop.exe",
       "latest-version": "1.0",
-      "download-url": "https://github.com/gremsyQuanLe/appUpdate/releases/download/v1.0.0/gTuneDesktop.exe",
+      "download-url": "https://github.com/gremsyQuanLe/appUpdate/releases/download/v1.4.8.0/gTuneDesktop.exe",
       "changelog": "This release brings many improvements to our first version, including:\n\n• Markdown formatting.\n• Highlighted search.\n• Option for a native window frame.\n• Minor aesthetic changes.\n• Many bug fixes.\n\nAlso, we're happy to announce that Notes has been downloaded more than half a million times! And counting! More than the numbers, it is the emails we get from people about how Notes been a great tool for them. This is what truly matters to us.\n\nVersion 2.0.0 is going to be packed with some new features (folders and tags among them). Stay tuned.",
       "mandatory": true
     },
