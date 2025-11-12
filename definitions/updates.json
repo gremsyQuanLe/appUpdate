@@ -1,39 +1,16 @@
-{
-  "updates": {
+  {
     "windows": {
-      "open-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Windows.zip",
-      "latest-version": "1.4.8",
-      "download-url": "https://github.com/Gremsy/gTuneDesktop/releases/download/v1.4.8/gTuneDesktop1.4.8_Windows.zip",
-      "changelog": "This release brings many improvements to our first version, including:\n\n• Markdown formatting.\n• Highlighted search.\n• Option for a native window frame.\n• Minor aesthetic changes.\n• Many bug fixes.\n\nAlso, we're happy to announce that Notes has been downloaded more than half a million times! And counting! More than the numbers, it is the emails we get from people about how Notes been a great tool for them. This is what truly matters to us.\n\nVersion 2.0.0 is going to be packed with some new features (folders and tags among them). Stay tuned.",
+      "open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windown_v1.2.0_Preview.zip",
+      "latest-version": "1.2.0",
+      "download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windown_v1.2.0_Preview.zip",
+      "changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Application upgrade check",
       "mandatory": true
     },
-    "osx": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Mac OS X. Go on...",
-      "mandatory": true
-    },
-    "linux": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Linux. Go on...",
-      "mandatory": true
-    },
-    "ios": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for iOS. Go on...",
-      "mandatory": true
-    },
-    "android": {
-      "open-url": "",
-      "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Android. Go on...",
+    "ubuntu": {
+      "open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_v1.2.0_Preview.zip",
+      "latest-version": "1.2.0",
+      "download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_v1.2.0_Preview.zip",
+      "changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Application upgrade check",
       "mandatory": true
     }
   }
-}
