@@ -1,16 +1,18 @@
-  {
-    "windows": {
-      "open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windown_v1.2.0_Preview.zip",
-      "latest-version": "1.2.0",
-      "download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windown_v1.2.0_Preview.zip",
-      "changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Application upgrade check",
-      "mandatory": true
-    },
-    "ubuntu": {
-      "open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_v1.2.0_Preview.zip",
-      "latest-version": "1.2.0",
-      "download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_v1.2.0_Preview.zip",
-      "changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Application upgrade check",
-      "mandatory": true
-    }
-  }
+{
+"updates": {
+"windows": {
+"open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windown_v1.2.0_Preview.zip",
+"latest-version": "1.2.0",
+"download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Windown_v1.2.0_Preview.zip",
+"changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Application upgrade check",
+"mandatory": true
+},
+"ubuntu": {
+"open-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_v1.2.0_Preview.zip",
+"latest-version": "1.2.0",
+"download-url": "https://github.com/Gremsy/Payload-Plus/releases/download/v1.2.0/Payload-Plus_Ubuntu_v1.2.0_Preview.zip",
+"changelog": "- Support payload v3.0.0.0 or higher\n- Enable Eagle Eye for payload\n- Application upgrade check",
+"mandatory": true
+}
+}
+}
